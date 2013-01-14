@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=M.A.X.R.
+Comment=A classic turn-based strategy game
+Exec=maxr
+Icon=maxr
+Type=Application
+Categories=Game;StrategyGame;
+Name[de_DE]=M.A.X.R.
