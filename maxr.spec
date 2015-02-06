@@ -1,6 +1,6 @@
 Name:		maxr
 Version:	0.2.8
-Release:	1
+Release:	2
 Summary:	A classic turn-based strategy game
 Group:		Games/Other
 License:	GPLv2+ and GFDL
