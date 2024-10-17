@@ -4,7 +4,7 @@ Release:	2
 Summary:	A classic turn-based strategy game
 Group:		Games/Other
 License:	GPLv2+ and GFDL
-URL:		http://www.maxr.org
+URL:		https://www.maxr.org
 Source0:	http://www.maxr.org/downloads/%{name}-%{version}.tar.gz
 Source1:	%{name}.desktop
 Source2:	%{name}.png
